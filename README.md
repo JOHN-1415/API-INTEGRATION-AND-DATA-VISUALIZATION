@@ -56,3 +56,15 @@ Weather Trend Analysis – Helps users analyze temperature and humidity variatio
 Climate Studies – Useful for researchers studying weather patterns and correlations.
 API Data Visualization – Serves as an example of how to fetch and visualize API data effectively.
 Learning and Educational Purposes – A great project for students and developers learning about API integration and data visualization.
+
+
+This coding and task is done with the help of Youtube and Chatgpt
+
+
+*Output
+
+![Image](https://github.com/user-attachments/assets/ed5806e4-7e85-4067-88ed-a82e82cbd9cb)
+
+![Image](https://github.com/user-attachments/assets/6d6daa52-b70e-4c7f-a7fe-0deba053707d)
+
+![Image](https://github.com/user-attachments/assets/2d4ce261-ba1b-459b-843f-880392fb4fa1)
