@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
-DESCRIPTION:
+*DESCRIPTION:*
 
 Project Overview
 This project is a dynamic tool that fetches and visualizes real-time weather data for multiple cities using the OpenWeatherMap API. It provides insights into temperature, humidity, and wind speed across different locations. The program structures the retrieved data into a tabular format, making it easier to analyze trends and relationships between meteorological parameters.
