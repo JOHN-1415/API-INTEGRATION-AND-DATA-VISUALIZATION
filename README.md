@@ -61,7 +61,7 @@ Learning and Educational Purposes – A great project for students and developer
 This coding and task is done with the help of Youtube and Chatgpt
 
 
-*Output
+*Output*
 
 ![Image](https://github.com/user-attachments/assets/ed5806e4-7e85-4067-88ed-a82e82cbd9cb)
 
